@@ -1,0 +1,10 @@
+﻿  hangman.cpp
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(85,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(98,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(101,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(114,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(122,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\CSCI262Project3\hangman.cpp(128,27): warning C4018: '<': signed/unsigned mismatch
+  CSCI262Project3.vcxproj -> C:\Users\Drewr\Documents\School\CSCI262\CSCI262Project3\Debug\CSCI262Project3.exe
